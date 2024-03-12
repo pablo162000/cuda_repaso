@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "correccion_cuda",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "correccion_cuda::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-correccion_cuda-Debug-031025deb708ef350c50.json",
+					"name" : "correccion_cuda",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "espejo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-espejo-Debug-19dec002fe6de77bdd49.json",
+					"name" : "espejo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mediana::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mediana-Debug-c52aff6c42ce16132fa4.json",
+					"name" : "mediana",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rotacion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rotacion-Debug-63dc49ada6cc884b2bc2.json",
+					"name" : "rotacion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sobel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sobel-Debug-86d47e39d3fa4139141a.json",
+					"name" : "sobel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "suma::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-suma-Debug-c4036e0e9e0f33f52607.json",
+					"name" : "suma",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Programacion Paralela/correccion_cuda/cmake-build-debug",
+		"source" : "C:/Programacion Paralela/correccion_cuda"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
